@@ -27,7 +27,7 @@ https://ru.bem.info/methodology/quick-start/
 https://webref.ru/html
 
 Список тегов:
-//
+
       <aside></aside>
       <article></article>
       <audio src=""></audio>
@@ -57,7 +57,7 @@ https://webref.ru/html
       <title></title>
       <ul></ul>
       <video src=""></video>
-      //
+      
       
       
 Задание 6.
