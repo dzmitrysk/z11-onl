@@ -71,5 +71,3 @@ https://webref.ru/html
 https://www.figma.com/file/HSpUw9vcPqq9vpzzhoF2en/School-1?node-id=1%3A51
 
 Дополнительные материалы: https://www.notion.so/Lesson-1-HTML-49b24e3d815d449188d6dc9f7bad9f88
-
-Выполнить и сдать работу не в последний день.
