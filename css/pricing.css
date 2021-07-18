@@ -1,0 +1,103 @@
+.pricing{
+    background-color: #F5F5F5;
+    padding: 80px 0 60px;
+}
+.pricing-title{
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0 auto 34px;
+}
+
+.line{
+    width: 64px;
+    height: 2px;
+    background-color: #E72424;
+    margin: 0 auto 34px;
+}
+
+.pricing-description{
+    font-family: "Open Sans";
+    font-size: 14px;
+    font-style: normal;
+    color: #86878B;
+    width: 363px;
+    margin: 0 auto 47px;
+    text-align: center;
+}
+.prices{
+    display: flex;
+    justify-content: space-between;
+}
+
+.price-item{
+    width: 340px;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 14px;
+}
+
+.price-item__middle{
+    width: 340px;
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 14px;
+    margin-right: 78px;
+    margin-left: 78px;
+}
+
+.price-item__void{
+    height: 15px;
+}
+
+.price-item__name{
+    background-color: black;
+    color: white;
+    height: 50px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.price-item__price{
+    background-color: black;
+    color: white;
+    height: 100px;
+    font-family: "Raleway";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.price-item__line{
+    height: 1px;
+    color: white;
+}
+
+.price-item__line__bold{
+    height: 4px;
+}
+
+
+.price-item__description{
+    background-color: black;
+    color: white;
+    height: 50px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.5);
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.price-item__option{
+    background-color: #FFFFFF;
+    height: 40px;
+    color: #86878B;
+    margin-top: 4px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
