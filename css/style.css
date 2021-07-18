@@ -1,0 +1,24 @@
+@import url("../css/pricing.css");
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: auto;
+  align-items: center;
+}
+
+.title{
+  font-size: 36px;
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: normal;
+  color: #212121;
+}
